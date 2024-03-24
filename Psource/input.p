@@ -1,2 +1,2 @@
 string a
-a="Škola je zlá"
+a="Hello World!"
